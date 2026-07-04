@@ -12,12 +12,15 @@ If you find any mistakes in the notes:
 2. Describe the error clearly (mention the unit and page number if applicable)
 3. Suggest the correction if you know it
 
-### 📝 Add Notes or Resources
-Have supplementary notes, solved papers, or useful resources?
+### 📝 Add Notes, PYQs, or Solved Papers
+Have supplementary notes, previous year question papers, or solved papers in **PDF format**?
 1. Fork this repository
-2. Add your files to the appropriate unit folder
-3. Use descriptive file names (e.g., `DVA-Unit-3-Additional-Notes.pdf`)
-4. Submit a Pull Request with a clear description
+2. Add your PDF files to the appropriate folder:
+   - **Unit notes** → Place in the relevant `Unit-X-...` folder
+   - **PYQs / Question papers** → Place in the `PYQs/` folder
+   - **Solved papers** → Place in the relevant unit folder or `PYQs/` folder
+3. Use descriptive file names (e.g., `DVA-Unit-3-Additional-Notes.pdf`, `al-603-b-dva-dec-2024.pdf`)
+4. Submit a Pull Request with a clear description of what you added
 
 ### 🔗 Share Useful Links
 Know of helpful articles, videos, or tutorials related to Data Visualization and Analytics?

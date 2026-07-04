@@ -24,6 +24,7 @@
 - [Academic Details](#-academic-details)
 - [Syllabus Overview](#-syllabus-overview)
 - [Unit-Wise Notes & Quick Download](#-unit-wise-notes--quick-download)
+- [Previous Year Question Papers (PYQs)](#-previous-year-question-papers-pyqs)
 - [Repository Structure](#-repository-structure)
 - [Features](#-features)
 - [Who Is This For?](#-who-is-this-for)
@@ -53,7 +54,8 @@ Whether you're preparing for **semester exams**, **internal assessments**, or si
 | **Course** | B.Tech (Bachelor of Technology) |
 | **Branch** | Artificial Intelligence & Machine Learning (AI & ML) |
 | **University** | Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal |
-| **College** | Lakshmi Narain College of Technology (LNCT), Bhopal |
+| **College** | Sri Aurobindo Institute of Technology (SAIT), Indore |
+| **Enrollment No.** | 0873AL231027 |
 | **Semester** | 6th Semester |
 | **Total Units** | 5 |
 
@@ -85,6 +87,19 @@ Whether you're preparing for **semester exams**, **internal assessments**, or si
 
 ---
 
+## 📝 Previous Year Question Papers (PYQs)
+
+Prepare smarter with actual RGPV exam papers for Data Visualization and Analytics (AL-603-B):
+
+| Year | Paper | Download |
+|:----:|:------|:---------|
+| May 2024 | DVA AL-603-B — May 2024 | [Download PDF](PYQs/al-603-b-data-and-visual-analytics-may-2024.pdf) |
+| May 2023 | DVA AL-603-B — May 2023 | [Download PDF](PYQs/al-603-b-data-and-visual-analytics-may-2023.pdf) |
+
+> 📂 **[Browse All PYQs →](PYQs/)**
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -94,6 +109,10 @@ Data-Visualization-and-Analytics-Notes-AL603B/
 ├── 📄 CONTRIBUTING.md
 ├── 📄 CODE_OF_CONDUCT.md
 ├── 📄 .gitignore
+│
+├── 📂 PYQs/
+│   ├── 📕 al-603-b-data-and-visual-analytics-may-2023.pdf
+│   └── 📕 al-603-b-data-and-visual-analytics-may-2024.pdf
 │
 ├── 📂 Unit-1-Data-Definitions-Analysis-Techniques-and-Statistical-Concepts/
 │   ├── 📄 README.md
@@ -121,6 +140,7 @@ Data-Visualization-and-Analytics-Notes-AL603B/
 ## ✨ Features
 
 - 📚 **Complete Syllabus Coverage** — All 5 units covered with comprehensive notes
+- 📝 **Previous Year Papers** — Includes RGPV PYQs (May 2023, May 2024) for exam practice
 - 📄 **PDF Format** — Easy to download, print, and study offline
 - 🗂️ **Organized Structure** — Unit-wise folders with descriptive naming for quick access
 - 🔍 **SEO Optimized** — Easy to find via GitHub Search and Google
@@ -134,11 +154,12 @@ Data-Visualization-and-Analytics-Notes-AL603B/
 
 These notes are ideal for:
 
-- 🎓 **B.Tech AI & ML students** at RGPV University preparing for semester exams
-- 📝 **Students of LNCT Bhopal** looking for ready-made DVA study material
+- 🎓 **All students searching for DVA notes** — Whether you're looking for Data Visualization and Analytics study material, these notes cover the complete AL-603-B syllabus
+- 🏛️ **Students at any RGPV-affiliated college** — These notes follow the RGPV syllabus, so they're useful for students at SAIT Indore, LNCT, TIT, MITM, UIT, SGSITS, and all other colleges under Rajiv Gandhi Proudyogiki Vishwavidyalaya
+- 📊 **B.Tech AI & ML students** preparing for semester exams or internal assessments
 - 🔬 **Data science enthusiasts** wanting to learn data visualization and analytics fundamentals
-- 📊 **Engineering students** studying data analysis, data wrangling, and visualization tools
-- 🏫 **Any student** whose syllabus overlaps with the AL-603-B subject code at RGPV
+- 📝 **Engineering students** studying data analysis, data wrangling, and visualization tools
+- 🏫 **Any student** whose syllabus covers similar topics in data visualization, analytics, or data science
 
 ---
 
@@ -201,6 +222,6 @@ Feel free to connect on LinkedIn for academic discussions, collaboration, or jus
 
 ---
 
-**Keywords:** Data Visualization and Analytics Notes, DVA Notes AL-603-B, RGPV Notes, RGPV AIML Notes, B.Tech AI ML Notes, Data Analytics Notes PDF, Data Visualization PDF, Engineering Semester Notes, LNCT Bhopal Notes, Data Wrangling Notes, Data Ecosystem Notes, Exam Preparation Notes, College Notes, DVA Unit 1 2 3 4 5 Notes
+**Keywords:** Data Visualization and Analytics Notes, DVA Notes AL-603-B, RGPV Notes, RGPV AIML Notes, B.Tech AI ML Notes, Data Analytics Notes PDF, Data Visualization PDF, Engineering Semester Notes, SAIT Indore Notes, Sri Aurobindo Institute of Technology Notes, Data Wrangling Notes, Data Ecosystem Notes, Exam Preparation Notes, College Notes, DVA Unit 1 2 3 4 5 Notes
 
 </div>
